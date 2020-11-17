@@ -1,6 +1,6 @@
 ## 欢迎来到Viif Network官方网站
 
-*由Viif Network运营，本网站归属 play.viif.cc*
+</br>*由Viif Network运营，本网站归属 play.viif.cc*</br>
 欢迎来到Viif Network官方网站。Viif Minecraft Open Network(下述简写为"VMON"或"VMN")非白名单制，这意味着只要你遵守Minecraft Rule和VMN Rule你就可以自由的游玩。下列将告诉你游玩的方式和Rule。感谢支持VMN运营。
 
 ### 如何加入VMN并游玩
